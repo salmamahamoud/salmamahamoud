@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salmamahamoud
+- 👋 Hi, I’m @sepiablue
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning the foundations of cybersecurity
 - 💞️ I’m looking to network with ppl in the industry
